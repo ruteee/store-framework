@@ -29,8 +29,6 @@
       "product-price",
       "buy-button"
     ]
-    
-
   },
   "product-images": {
     "props": {
