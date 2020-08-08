@@ -12,12 +12,17 @@
         }
     },
     "search-result-layout.customQuery":{
+        "blocks":[
+            "search-result-layout.desktop"
+        ],
         "props": {
             "querySchema":{
+                "skusFilter": "FIRST_AVAILABLE",
+                "simulationBehavior": "skip",
                 "orderByField": "OrderByReleaseDateDESC",
                 "maxItemsPerPage": 8,
                 "hideUnavailableItems": true
-               
+                
             }
         }
     }
