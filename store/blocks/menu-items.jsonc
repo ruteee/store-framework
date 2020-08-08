@@ -5,7 +5,8 @@
       "highlight": true,
       "itemProps": {
         "text": "Major Aplliances"
-      }
+      },
+      "blocks": ["vtex.menu@2.x:submenu#major"]
     }
   },
   "menu-item#small-appliances": {
@@ -17,7 +18,8 @@
         "categoryId": 2, 
         "text": "Small Appliances"
       }
-    }
+    },
+    "blocks": ["vtex.menu@2.x:submenu#small"]
   },
   "menu-item#electronics": {
       "props":
@@ -28,7 +30,8 @@
         "categoryId": 3, 
         "text": "Electronics"
       }
-    }
+    },
+    "blocks": ["vtex.menu@2.x:submenu#electronics"]
   },
   "menu-item#refrigerators": {
       "props":
@@ -128,15 +131,6 @@
         "text": "Cameras"
       }
     }
-  },
-  "menu-item#major-appliances":{
-        "blocks": ["vtex.menu@2.x:submenu#major"]
-    },
-  "menu-item#small-appliances":{
-
-      "blocks": ["vtex.menu@2.x:submenu#small"]
-  },
-  "menu-item#electronics":{
-      "blocks": ["vtex.menu@2.x:submenu#electronics"]
   }
+
 }
