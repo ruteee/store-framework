@@ -31,7 +31,7 @@
     
     "accepted-payment-methods":{
         "props": {
-            "paymentMethods": ["Mastercard", "Visa", "Diners Club"],
+            "paymentMethods": ["mastercard", "visa", "diners club"],
             "showInColor":true
             }
     },
@@ -50,9 +50,9 @@
     "social-networks": {
         "props": {
           "socialNetworks": [
-            { "url": "https://facebook.com/foo", "name": "Facebook" },
-            { "url": "https://twitter.com/foo", "name": "Twitter"  },
-            { "url": "https://instagram.com/foo", "name": "Instagram" }
+            { "url": "https://facebook.com/foo", "name": "facebook" },
+            { "url": "https://twitter.com/foo", "name": "twitter"  },
+            { "url": "https://instagram.com/foo", "name": "instagram" }
 
           ]
         }
