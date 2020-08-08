@@ -52,7 +52,7 @@
           "socialNetworks": [
             { "url": "https://facebook.com/foo", "name": "facebook"},
             { "url": "https://instagram.com/foo", "name": "instagram"},
-            { "url": "https://twitter.com/foo", "name": "twitter"},
+            { "url": "https://twitter.com/foo", "name": "twitter"}
            
           ],
           "showInColor": true
