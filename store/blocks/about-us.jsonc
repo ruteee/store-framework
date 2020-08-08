@@ -94,8 +94,8 @@
       "iframe": {
         "props": {
           "src": "https://www.instagram.com/p/B973Qp8BacC/embed",
-          "width": "800px",
-          "height": "1000px"
+          "width": "800px-wide",
+          "height": "1000px-wide"
         }
       }
 
