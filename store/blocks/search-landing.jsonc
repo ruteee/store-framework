@@ -12,9 +12,9 @@
         }
     },
     "search-result-layout.customQuery":{
-        "blocks":[
-            "search-result-layout.desktop"
-        ],
+        // "blocks":[
+        //     "search-result-layout.desktop"
+        // ],
         "props": {
             "querySchema":{
                 "skusFilter": "FIRST_AVAILABLE",
