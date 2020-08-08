@@ -11,13 +11,13 @@
       }
     },
     "menu-item#major-appliances":{
-        "children": ["vtex.menu@2.x:submenu#major"]
+        "blocks": ["vtex.menu@2.x:submenu#major"]
     },
     "menu-item#small-appliances":{
-        "children": ["vtex.menu@2.x:submenu#small"]
+        "blocks": ["vtex.menu@2.x:submenu#small"]
     },
     "menu-item#electronics":{
-        "children": ["vtex.menu@2.x:submenu#electronics"]
+        "blocks": ["vtex.menu@2.x:submenu#electronics"]
     },
 
     "vtex.menu@2.x:submenu#major":{
